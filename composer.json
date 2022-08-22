@@ -16,7 +16,7 @@
     "issues": "https://github.com/Neconix/Yii2-Oci8/issues"
   },
   "require": {
-    "php" : ">=8.0",
+    "php" : "^7.1|^8.0",
     "yajra/laravel-pdo-via-oci8": "3.*"
   },
 
