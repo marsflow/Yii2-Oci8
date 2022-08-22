@@ -4,7 +4,7 @@
   "type": "library",
   "keywords": ["yii2", "oracle", "oci8", "database"],
   "license": "MIT",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Neconix",
