@@ -5,7 +5,7 @@
  * @author Neconix (prostoe@gmail.com)
  */
 
-namespace neconix\yii2oci8;
+namespace marsflow\yii2oci8;
 
 use Codeception\Exception\ConfigurationException;
 use yii\base\NotSupportedException;
